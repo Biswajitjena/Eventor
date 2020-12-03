@@ -1,7 +1,10 @@
 .rz-font-heading {
 	font-family: Sen
 }
-
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
 .rz-explore {
 	position: relative;
 	display: flex;
@@ -509,6 +512,7 @@
 	margin: 0 0 .5rem;
     font-size: 15px;
     font-weight: normal;
+    white-space: normal;
 }
 
 @-webkit-keyframes place-holder-shimmer {

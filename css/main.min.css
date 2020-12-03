@@ -3147,7 +3147,7 @@ a {
 }
 @media (max-width: 991.98px) {
 	.brk-board {
-		height: 50vh
+		height: 30vh;
 	}
 }
 .brk-board:after {
@@ -6447,6 +6447,7 @@ a {
 .categories-title{
 	font-weight: 600;
 	font-size: 17px;
+	white-space: normal;
 }
 .sign-in-btn{
 	border:1px solid #dddddd;
